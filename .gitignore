@@ -215,7 +215,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
 # my global .gitignore file
 # git check-ignore -v .gitignore
 # C:/Users/zhen-/.gitignore_global:11:.gitignore  .gitignore
